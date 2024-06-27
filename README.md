@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 *currently exploring various areas and learning in the process..*
 
-  Learn as you code :)
+Learn as you code :)
+
+<br />
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=keerthisureka.keerthisureka)
